@@ -39,7 +39,7 @@ The POC demonstrates how to read data from a file and make API requests to the P
    
 ## Results
 
-   [](./var/screenshot.png)
+   ![screenshot](./var/screenshot.png)
    
 
 ## Documentation
