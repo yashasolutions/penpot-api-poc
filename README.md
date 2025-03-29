@@ -26,10 +26,10 @@ The POC demonstrates how to read data from a file and make API requests to the P
 
 4. Create a `.env` file in the project directory and provide the following environment variables:
    ```
-   PENPOT_URL=<your_penpot_api_url>
+   PENPOT_URL=<your_penpot_file_url>
    PENPOT_TOKEN=<your_penpot_api_token>
    ```
-   Replace `<your_penpot_api_url>` with the URL of the Penpot API and `<your_penpot_api_token>` with your Penpot API token.
+   Replace `<your_penpot_file_url>` with the URL of the Penpot File you are interacting with and `<your_penpot_api_token>` with your Penpot API token.
 
 ## Usage
 
